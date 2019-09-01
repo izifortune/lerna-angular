@@ -4,6 +4,6 @@
   "peerDependencies": {
     "@angular/common": "^8.2.3",
     "@angular/core": "^8.2.3",
-    "my-lib": "latest"
+    "my-lib": "1.0.2"
   }
 }
