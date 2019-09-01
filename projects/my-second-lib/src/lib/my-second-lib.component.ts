@@ -14,6 +14,7 @@ export class MySecondLibComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log('hello world');
   }
 
 }
