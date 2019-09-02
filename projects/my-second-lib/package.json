@@ -2,12 +2,13 @@
   "name": "my-second-lib",
   "version": "2.1.2",
   "scripts": {
-    "build": "ng build my-second-lib"
+    "build": "ng build my-second-lib",
+    "prepublishOnly": "mv dist/my-second-lib dist/"
   },
   "peerDependencies": {
     "@angular/common": "^8.2.3",
     "@angular/core": "^8.2.3",
     "my-lib": "1.0.2"
   },
-  "gitHead": "7bcacb61d39c658fe7f109753dfe09fc43ff2f95"
+  "gitHead": "b8c0402e31d091f236c1a1993d7a2c82c1f1d881"
 }
