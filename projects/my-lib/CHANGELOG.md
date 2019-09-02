@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.3](https://github.com/izifortune/lerna-angular/compare/v2.1.2...v2.1.3) (2019-09-02)
+
+
+### Bug Fixes
+
+* lifecycle hooks ([0f3a96c](https://github.com/izifortune/lerna-angular/commit/0f3a96c))
+
+
+
+
+
 ## [2.1.2](https://github.com/izifortune/lerna-angular/compare/v2.1.1...v2.1.2) (2019-09-02)
 
 

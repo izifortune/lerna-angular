@@ -1,6 +1,6 @@
 {
   "name": "my-second-lib",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "scripts": {
     "build": "ng build my-second-lib",
     "prepublishOnly": "mv dist/my-second-lib dist/"
