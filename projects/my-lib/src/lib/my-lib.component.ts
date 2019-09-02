@@ -14,6 +14,7 @@ export class MyLibComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log('First fix')
   }
 
 }
