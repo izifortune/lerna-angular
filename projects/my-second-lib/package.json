@@ -8,5 +8,6 @@
     "@angular/common": "^8.2.3",
     "@angular/core": "^8.2.3",
     "my-lib": "1.0.2"
-  }
+  },
+  "gitHead": "7bcacb61d39c658fe7f109753dfe09fc43ff2f95"
 }
