@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.4](https://github.com/izifortune/lerna-angular/compare/v2.1.3...v2.1.4) (2019-09-02)
+
+
+### Bug Fixes
+
+* move files ([e541887](https://github.com/izifortune/lerna-angular/commit/e541887))
+
+
+
+
+
 ## [2.1.3](https://github.com/izifortune/lerna-angular/compare/v2.1.2...v2.1.3) (2019-09-02)
 
 
