@@ -5,5 +5,7 @@ import { Injectable } from '@angular/core';
 })
 export class MySecondLibService {
 
-  constructor() { }
+  constructor() {
+    console.log('second lib commit')
+  }
 }
