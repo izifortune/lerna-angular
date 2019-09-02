@@ -1,6 +1,9 @@
 {
   "name": "my-second-lib",
   "version": "1.0.3",
+  "scripts": {
+    "build": "ng build my-second-lib"
+  },
   "peerDependencies": {
     "@angular/common": "^8.2.3",
     "@angular/core": "^8.2.3",
