@@ -9,15 +9,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * new console feature ([16cace0](https://github.com/izifortune/lerna-angular/commit/16cace0))
-
-
-
-
-
-## [2.0.1](https://github.com/izifortune/lerna-angular/compare/v2.0.0...v2.0.1) (2019-09-02)
-
-
-### Bug Fixes
-
-* added console log ([6a82113](https://github.com/izifortune/lerna-angular/commit/6a82113))
-* conventional commit test ([fc68acc](https://github.com/izifortune/lerna-angular/commit/fc68acc))
