@@ -2,6 +2,7 @@
   "name": "my-lib",
   "version": "2.1.4",
   "scripts": {
+    "test": "echo my-lib",
     "build": "ng build my-lib",
     "prepublishOnly": "mv dist/my-lib/* dist/"
   },
