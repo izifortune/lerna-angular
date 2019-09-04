@@ -4,12 +4,13 @@
   "scripts": {
     "test": "echo my-second-lib",
     "build": "ng build my-second-lib",
-    "prepublishOnly": "mv dist/my-second-lib/* dist/"
+    "prepublishOnly": "mv dist/my-second-lib/* dist/",
+    "postpublish": "rm -rf dist/"
   },
   "peerDependencies": {
     "@angular/common": "^8.2.3",
     "@angular/core": "^8.2.3",
     "my-lib": "1.0.2"
   },
-  "gitHead": "114f51354f3f0b7409e2a80836f1fc59ef92394e"
+  "gitHead": "832cc365c0bdbfc08a02851952546073b22575e9"
 }

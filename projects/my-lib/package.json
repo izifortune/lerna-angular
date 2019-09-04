@@ -4,11 +4,12 @@
   "scripts": {
     "test": "echo my-lib",
     "build": "ng build my-lib",
-    "prepublishOnly": "mv dist/my-lib/* dist/"
+    "prepublishOnly": "mv dist/my-lib/* dist/",
+    "postpublish": "rm -rf dist/"
   },
   "peerDependencies": {
     "@angular/common": "^8.2.3",
     "@angular/core": "^8.2.3"
   },
-  "gitHead": "114f51354f3f0b7409e2a80836f1fc59ef92394e"
+  "gitHead": "832cc365c0bdbfc08a02851952546073b22575e9"
 }
