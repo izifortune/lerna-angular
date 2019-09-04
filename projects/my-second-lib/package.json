@@ -1,6 +1,6 @@
 {
   "name": "my-second-lib",
-  "version": "2.1.4",
+  "version": "2.2.0",
   "scripts": {
     "test": "echo my-second-lib",
     "build": "ng build my-second-lib",
