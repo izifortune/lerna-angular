@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'lib-my-lib',
   template: `
-    <p>
+    <p>sadjaslk
       Hello world
     </p>
   `,
